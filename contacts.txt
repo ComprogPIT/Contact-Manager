@@ -1,3 +1,5 @@
 Juan Dela Cruz|09171234567|Cagayan de Oro City
 Maria Santos|09281234567|Davao City
 Pedro Reyes|09391234567|Manila
+Maria Santos|09281234567|Davao City
+eskalamatoy|2025300|bugo ustp
